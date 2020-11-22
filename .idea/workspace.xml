@@ -1,142 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5cad238-a8d5-46a8-b233-c4b3d43d5b0a" name="Default Changelist" comment="add bootstrap preset">
-      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ConfirmPasswordController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/PageController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/ProfileController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Requests/PasswordRequest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Requests/ProfileRequest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Requests/UserRequest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Rules/CurrentPasswordCheckRule.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/seeders/UsersTableSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/css/paper-dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/css/paper-dashboard.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/css/paper-dashboard.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/demo/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/demo/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/demo/jquery.sharrre.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/fonts/nucleo-icons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/fonts/nucleo-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/fonts/nucleo-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/fonts/nucleo-icons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/bg/fabio-mangione.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/bg/jan-sendereks.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/bg5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/damir-bosnjak.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/default-avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/faces/ayo-ogunseinde-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/faces/ayo-ogunseinde-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/faces/clem-onojeghuo-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/faces/clem-onojeghuo-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/faces/clem-onojeghuo-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/faces/clem-onojeghuo-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/faces/erik-lucatero-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/faces/erik-lucatero-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/faces/joe-gardner-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/faces/joe-gardner-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/faces/kaci-baum-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/faces/kaci-baum-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/jan-sendereks.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/laravel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/logo-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/img/mike.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/js/core/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/js/core/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/js/core/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/js/paper-dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/js/paper-dashboard.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/js/paper-dashboard.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/js/plugins/bootstrap-notify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/js/plugins/chartjs.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/js/plugins/perfect-scrollbar.jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_alerts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_animated-buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_cards.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_checkboxes-radio.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_fixed-plugin.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_footers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_images.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_inputs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_misc.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_nucleo-outline.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_page-header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_responsive.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_sections.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_sidebar-and-main-panel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/cards/_card-chart.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/cards/_card-map.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/cards/_card-plain.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/cards/_card-stats.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/cards/_card-user.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/mixins/_cards.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/mixins/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/mixins/_inputs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/mixins/_page-header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/mixins/_transparency.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/mixins/_vendor-prefixes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/plugins/_plugin-animate-bootstrap-notify.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/paper/scss/paper-dashboard/plugins/_plugin-perfect-scrollbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/components/ExampleComponent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/passwords/confirm.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/verify.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/navbars/auth.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/navbars/fixed-plugin-js.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/navbars/fixed-plugin.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/navbars/navs/auth.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/navbars/navs/guest.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/page_templates/auth.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/page_templates/guest.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/pages/dashboard.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/pages/icons.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/pages/map.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/pages/notifications.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/pages/tables.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/pages/typography.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/pages/upgrade.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/profile/edit.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/users/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="b5cad238-a8d5-46a8-b233-c4b3d43d5b0a" name="Default Changelist" comment="dockerize and update README">
+      <change afterPath="$PROJECT_DIR$/docker/app.dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/vhost.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lara-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lara-test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -305,7 +186,8 @@
       <option name="presentableId" value="Default" />
       <updated>1606045289394</updated>
       <workItem from="1606045290866" duration="1315000" />
-      <workItem from="1606071576067" duration="2445000" />
+      <workItem from="1606071576067" duration="5215000" />
+      <workItem from="1606077861610" duration="2942000" />
     </task>
     <task id="LOCAL-00001" summary="init laravel 🏌️">
       <created>1606071424291</created>
@@ -314,29 +196,61 @@
       <option name="project" value="LOCAL" />
       <updated>1606071424291</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add bootstrap-based preset and basic auth/user handling">
+      <created>1606074953927</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606074953927</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init laravel ️" />
-    <option name="LAST_COMMIT_MESSAGE" value="init laravel ️" />
+    <MESSAGE value="add bootstrap-based preset and basic auth/user handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="add bootstrap-based preset and basic auth/user handling" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="47" y="25" width="1146" height="723" key="CommitChangelistDialog2" timestamp="1606074854097">
+    <state x="47" y="25" width="1146" height="723" key="CommitChangelistDialog2" timestamp="1606080905080">
       <screen x="0" y="25" width="1280" height="723" />
     </state>
-    <state x="47" y="25" width="1146" height="723" key="CommitChangelistDialog2/0.25.1280.723@0.25.1280.723" timestamp="1606074854097" />
+    <state x="47" y="25" width="1146" height="723" key="CommitChangelistDialog2/0.25.1280.723@0.25.1280.723" timestamp="1606080905080" />
+    <state x="443" y="93" key="RollbackChangesDialog" timestamp="1606080805639">
+      <screen x="0" y="25" width="1280" height="723" />
+    </state>
+    <state x="443" y="93" key="RollbackChangesDialog/0.25.1280.723@0.25.1280.723" timestamp="1606080805639" />
     <state x="149" y="25" width="982" height="723" key="SettingsEditor" timestamp="1606071678543">
       <screen x="0" y="25" width="1280" height="723" />
     </state>
     <state x="149" y="25" width="982" height="723" key="SettingsEditor/0.25.1280.723@0.25.1280.723" timestamp="1606071678543" />
-    <state x="341" y="141" width="867" height="541" key="find.popup" timestamp="1606071122027">
+    <state x="240" y="123" key="Vcs.Push.Dialog.v2" timestamp="1606077415132">
       <screen x="0" y="25" width="1280" height="723" />
     </state>
-    <state x="341" y="141" width="867" height="541" key="find.popup/0.25.1280.723@0.25.1280.723" timestamp="1606071122027" />
+    <state x="240" y="123" key="Vcs.Push.Dialog.v2/0.25.1280.723@0.25.1280.723" timestamp="1606077415132" />
+    <state x="100" y="125" width="1080" height="523" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606080928295">
+      <screen x="0" y="25" width="1280" height="723" />
+    </state>
+    <state x="100" y="125" width="1080" height="523" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1280.723@0.25.1280.723" timestamp="1606080928295" />
+    <state x="341" y="141" width="867" height="541" key="find.popup" timestamp="1606080647088">
+      <screen x="0" y="25" width="1280" height="723" />
+    </state>
+    <state x="341" y="141" width="867" height="541" key="find.popup/0.25.1280.723@0.25.1280.723" timestamp="1606080647088" />
     <state x="305" y="72" width="670" height="676" key="search.everywhere.popup" timestamp="1606073121210">
       <screen x="0" y="25" width="1280" height="723" />
     </state>
