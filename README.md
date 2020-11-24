@@ -2,13 +2,21 @@
 
 ### Getting Started With Local Development
 
-#### Setup And Start
+#### Preliminary
+* copy the file `.env.example` to `env`
+```bash
+$ composer install
+```
+
+#### Setup And Start Docker
 ```bash
 $ cd docker
-# and
-$ docker-compose up
-# or 
 $ docker-compose up -d
+```
+
+#### Generate Random Key For environment
+```bash
+$ docker-compose exec app php artisan key:generate
 ```
 
 #### Seed Initial Data
@@ -19,6 +27,11 @@ $ docker-compose exec app php artisan migrate --seed
 #### Usage
 * visit [http://localhost:8080](http://localhost:8080)
 * login with email: `admin@paper.com` and password `secret`
+
+#### Stop Docker
+```bash
+$ docker-compose stop
+```
 
 ### Documentation
 * [Laravel documentation](https://laravel.com/docs)
